@@ -1,5 +1,5 @@
 # CCNP-ENCOR
-<h1> Hey guys, i'm going to take my CCNP ENCOR exam after starting on this journey 9 months ago (9/2023) at SCC (FTEL) as an network engineer intern.</h1>
+<h1> Hey guys, i'm going to take my CCNP ENCOR exam after starting on this journey 10 months ago (9/2023) at SCC (FTEL) as an network engineer intern.</h1>
 <h1>This repository records my process on CCNP Enterprise Core certificate including labs, courses, test exams.</h1>
 
 
